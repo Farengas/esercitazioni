@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1721662569 source:c:\users\lenovo\onedrive\desktop\testesame\analista_pomeriggio\prova_pratica\c++\arraynumerisommaselezionato\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdexcept>
+
